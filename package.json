@@ -1,0 +1,24 @@
+{
+  "name": "random-roblox",
+  "version": "1.0.0",
+  "description": "Random roblox things",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InterplexSoftworks/random-roblox-things.git"
+  },
+  "keywords": [
+    "roblox",
+    "random",
+    "numbers"
+  ],
+  "author": "InterplexSoftworks@GitHub",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/InterplexSoftworks/random-roblox-things/issues"
+  },
+  "homepage": "https://github.com/InterplexSoftworks/random-roblox-things#readme"
+}
